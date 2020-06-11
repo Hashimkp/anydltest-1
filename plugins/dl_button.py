@@ -296,7 +296,7 @@ File Size: {}
 Downloaded: {}
 ETA: {}
 
-©️ @AnyDLBot""".format(
+""".format(
     url,
     humanbytes(total_length),
     humanbytes(downloaded),
